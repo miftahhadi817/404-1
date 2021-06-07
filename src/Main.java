@@ -17,10 +17,10 @@ public class Main {
 
         String namaLengkap = namaDepan + " " + namaTengah + "" + namaBelakang;
         System.out.println(namaLengkap.length());
-        System.out.println(namaLengkap.indexOf("BIS"));
+        System.out.println(namaLengkap.indexOf("NIS"));
         System.out.println(namaLengkap.substring(5));
         System.out.println(namaLengkap.substring(5,12));
-        System.out.println(namaLengkap.replace("Yog","Barr");
+        System.out.println(namaLengkap.replace("Yog","Barr"));
         System.out.println(namaLengkap.toUpperCase());
         System.out.println(namaLengkap.toLowerCase());
         System.out.println(namaLengkap.charAt(6));
